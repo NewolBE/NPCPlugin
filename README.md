@@ -5,10 +5,10 @@
 
 - Spawn Player(Human) NPCEntity.
 ```php
-\skh6075\NPCPlugin\entity\EntityFactory::createNPCHuman (Player $player, string $name, arrray $data);
+\skh6075\NPCPlugin\entity\EntityFactory::createNPCHuman (Player $player, arrray $data);
 ```
 
 - Spawn Aniaml NPCEntity.
 ```php
-\skh6075\NPCPlugin\entity\EntityFactory::createNPCAnimal (Player $player, string $name, array $data);
+\skh6075\NPCPlugin\entity\EntityFactory::createNPCAnimal (Player $player, array $data);
 ```
