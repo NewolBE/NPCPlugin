@@ -1,0 +1,10 @@
+name: NPCPlugin
+main: skh6075\NPCPlugin\NPCPlugin
+author: AvasKr
+version: 1.0.0
+api: 3.10.0
+website: https://github.com/GodVas
+
+permissions:
+  npc.permission:
+    default: op
